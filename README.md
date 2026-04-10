@@ -1,4 +1,4 @@
-git pull---
+---
 title: Sentiment Analysis
 emoji: 😄
 colorFrom: blue
