@@ -1,0 +1,6 @@
+gradio==4.44.1
+pandas==2.1.4
+pycaret==3.3.2
+scikit-learn==1.4.2
+huggingface-hub==0.19.4
+python-multipart
