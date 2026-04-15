@@ -41,3 +41,7 @@ Adapun task yang dilakukan dalam proyek ini meliputi:
 | 4. | Pembangunan Model |
 | 5. | Evaluasi Model |
 | 6. | Perbandingan Model |#
+
+## LINK HUGGING FACE SENTIMENT ANALYSIS IKN
+Masukkan opini terkait IKN untuk mengetahui sentimen (positif/negtif)
+https://huggingface.co/spaces/NindiDestriani/sentiment-analysis
