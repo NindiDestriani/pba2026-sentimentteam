@@ -4,3 +4,6 @@ flagged
 catboost_info
 *.pkl
 models/*.pkl
+documentation.md
+*.pt
+indobert_sentiment
