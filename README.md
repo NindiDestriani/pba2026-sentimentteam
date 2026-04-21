@@ -42,10 +42,10 @@ Adapun task yang dilakukan dalam proyek ini meliputi:
 | 5. | Evaluasi Model |
 | 6. | Perbandingan Model |#
 
-## LINK HUGGING FACE SENTIMENT ANALYSIS IKN - PYCRET
+## LINK HUGGING FACE SENTIMENT ANALYSIS IKN - ML
 Masukkan opini terkait IKN untuk mengetahui sentimen (positif/negtif)
 https://huggingface.co/spaces/NindiDestriani/sentiment-analysis
 
-## LINK HUGGING FACE SENTIMENT ANALYSIS IKN - BERT
+## LINK HUGGING FACE SENTIMENT ANALYSIS IKN - DL
 Masukkan opini terkait IKN untuk mengetahui sentimen (positif/negtif)
 https://huggingface.co/spaces/NindiDestriani/bert-sentiment-analysis
