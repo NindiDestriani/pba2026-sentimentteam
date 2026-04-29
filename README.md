@@ -49,3 +49,6 @@ https://huggingface.co/spaces/NindiDestriani/sentiment-analysis
 ## LINK HUGGING FACE SENTIMENT ANALYSIS IKN - DL
 Masukkan opini terkait IKN untuk mengetahui sentimen (positif/negtif)
 https://huggingface.co/spaces/NindiDestriani/bert-sentiment-analysis
+
+## LINK PUBLIKASI PAPER DI ARXIV
+https://arxiv.org/abs/2604.25392
